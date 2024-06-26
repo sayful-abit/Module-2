@@ -45,3 +45,17 @@ text-align: center;
     background-size: cover;
 
 }
+
+.Alhamdulillah{
+    background-color: tomato;
+    margin: 25px;
+    padding: 35px;
+}
+.git{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+}
